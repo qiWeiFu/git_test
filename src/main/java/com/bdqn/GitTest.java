@@ -8,7 +8,6 @@ public class GitTest {
         System.out.println("hello........git");
         System.out.println("hello........git");
         System.out.println("hello........git");
-        System.out.println("w");
         System.out.println("wang-fix....git");
     }
 }
